@@ -127,3 +127,40 @@ header {
 
     }
 }
+
+@media only screen and (min-width: 400px) {
+    .mobileWrapper {
+        display: none;
+    }
+
+    .otherWrapper {
+        text-align: center;
+
+        section {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            flex-direction: column;
+            justify-content: center;
+
+            .content {
+                position: absolute;
+                top: 0;
+                // left: 0;
+                display: flex;
+                justify-content: center;
+                width: 100%;
+                height: 100%;
+                flex-direction: column;
+                justify-content: center;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .otherWrapper {
+        display: none;
+    }
+}
