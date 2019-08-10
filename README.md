@@ -1,4 +1,4 @@
-# How to view this design
+# Design only viewable in inspect mode mobile views
 
 This design is only intended for mobile view and there is no desktop view.  In order to view correctly, please switch to inspect view.
 
