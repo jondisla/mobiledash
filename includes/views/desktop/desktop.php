@@ -2,58 +2,61 @@
     <!-- <h2>Please switch to mobile view.</h2> -->
     <section>
         <!-- <div class="content"><img src="inspectdash.gif" alt=""></div> -->
-        <header>
-            <nav>
-                <i class="fas fa-search navBtn"></i>
-                <i class="fas fa-bars navBtn"></i>
-            </nav>
-        </header>
+        
         <section class="greeting">
             <h3>Hello</h3>
             <h1>John</h1>
         </section>
-        <section class="cards">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="card text-left" style="background: rgb(238, 97, 2);">
-                        <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title"></h4>
-                            <p class="card-text">Chemistry</p>
+        <section class="cards categories">
+            <header>
+                <nav>
+                    <i class="fas fa-search navBtn"></i>
+                    <i class="fas fa-bars navBtn"></i>
+                </nav>
+            </header>
+            <div class="categoriesBtns">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="card text-left" style="background: rgb(238, 97, 2);">
+                            <img class="card-img-top" src="holder.js/100px180/" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title"></h4>
+                                <p class="card-text">Chemistry</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card text-left" style="background: #9245D3;">
+                            <img class="card-img-top" src="holder.js/100px180/" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title"></h4>
+                                <p class="card-text">Biology</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card text-left" style="background: #9245D3;">
-                        <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title"></h4>
-                            <p class="card-text">Biology</p>
+                <br>
+                <div class="row">
+                    <div class="col">
+                        <div class="card text-left" style="background: #F66539;">
+                            <img class="card-img-top" src="holder.js/100px180/" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title"></h4>
+                                <p class="card-text">Physics</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card text-left" style="background: rgb(238, 97, 2);">
+                            <img class="card-img-top" src="holder.js/100px180/" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title"></h4>
+                                <p class="card-text">Mathematics</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col">
-                    <div class="card text-left" style="background: #F66539;">
-                        <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title"></h4>
-                            <p class="card-text">Physics</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card text-left" style="background: rgb(238, 97, 2);">
-                        <img class="card-img-top" src="holder.js/100px180/" alt="">
-                        <div class="card-body">
-                            <h4 class="card-title"></h4>
-                            <p class="card-text">Mathematics</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+</div>
         </section>
         <div class="courses">
             <h4>Popular Courses</h4>
