@@ -21,7 +21,7 @@
                             <img class="card-img-top" src="holder.js/100px180/" alt="">
                             <div class="card-body">
                                 <h4 class="card-title"></h4>
-                                <p class="card-text">Chemistry</p>
+                                <button class="card-text">Chemistry</button>
                             </div>
                         </div>
                     </div>
@@ -56,13 +56,14 @@
                         </div>
                     </div>
                 </div>
-</div>
+            </div>
         </section>
-        <div class="courses">
+        <!-- <div class="courses">
             <h4>Popular Courses</h4>
-            <!-- Swiper -->
+            <!-- Swiper
             <div class="swiper-container">
                 <div class="swiper-wrapper">
+                        <span id="arrow"><i class="fas fa-arrow-circle-left"></i></span>
                     <div class="swiper-slide">
                         <div class="imgBx">
                             <img src="https://cdn.pixabay.com/photo/2016/03/09/09/22/workplace-1245776_960_720.jpg"
@@ -99,8 +100,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-
+        </div> -->
         <footer>
             <!-- footer -->
 

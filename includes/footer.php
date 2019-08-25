@@ -2,7 +2,7 @@
 <script src="swiper.min.js"></script>
 
 <!-- Initialize Swiper -->
-<script>
+<!-- <script>
     var swiper = new Swiper('.swiper-container', {
         slidesPerView: 3,
         spaceBetween: 30,
@@ -11,7 +11,7 @@
             clickable: true,
         },
     });
-</script>
+</script> -->
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -23,6 +23,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
     crossorigin="anonymous"></script>
+    <script src="includes/views/desktop/deskmain.js"></script>
 </footer>
 </body>
 
